@@ -11,3 +11,6 @@ Application PWA de budget personnel en français, en CHF, sans compte ni serveur
 5. Tester les ajouts et l'export JSON. Exporter régulièrement une sauvegarde et la garder en lieu sûr.
 
 Aucun compte bancaire n'est connecté. Les données ne se synchronisent pas entre appareils. Effacer les données du navigateur ou désinstaller l'application peut supprimer les données locales. L'application fonctionne hors ligne après un premier chargement réussi sur HTTPS. GitHub Pages exige un dépôt public sur le plan gratuit pour ce cas d'usage ; seul le code est public, pas les données enregistrées localement.
+
+
+Mise à jour : catégories Impôts, 3e pilier, Restaurant, Voyage. Conserver la clé de stockage budget-ch-data-v1 pour préserver les données.
